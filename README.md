@@ -28,7 +28,7 @@
   * [Exploratory Data Analysis](#key EDA)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
+  * [Feature Engineering](#gear-installation)
   * [Run Locally](#running-run-locally)
 - [Strategies to Counter Churn](#eyes-usage)
 - [Roadmap](#compass-roadmap)
@@ -63,6 +63,31 @@ The telco industry has an annual churn of 15-20%. Customer churn is a critical m
 
 ## 	:toolbox: Getting Started
 The solution is developed using Python 3.11 and Visual Studio Code with Python extensions
+### :bangbang: Prerequisites
+
+Install Libraries and dependencies
+
+```bash
+ pip install -r requirements.txt
+```
+### :gear: Installation
+
+Feature Engineering and Dimensionality Reduction with PCA
+
+```bash
+from sklearn.decomposition import PCA
+pca = PCA(n_components=2)
+principalComponents = pca.fit_transform(x)
+```
+## :eyes: Prediction
+```bash
+from sklearn.ensemble import RandomForestClassifier
+clf = RandomForestClassifier(max_depth=2, random_state=0)
+clf.fit(X, y)
+```
+
+### :running: Run Locally
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffeeJohnTan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffeeJohnTan" /></a></p><br><br>
