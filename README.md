@@ -86,6 +86,9 @@ clf = RandomForestClassifier(max_depth=2, random_state=0)
 clf.fit(X, y)
 ```
 
+## ✅&nbsp; Strategies to Counter Churn
+
+
 # 🚀&nbsp; Streamlit Machine Learning
 ### :running: Run Locally
 
