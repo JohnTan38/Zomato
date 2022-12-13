@@ -13,7 +13,7 @@
 </a>
   
 <a href='https://github.com/chroline/well_app/blob/main/LICENSE'>
-  
+
 <img src='https://img.shields.io/github/license/chroline/well_app?style=for-the-badge'>
   
 </a>
@@ -86,6 +86,7 @@ clf = RandomForestClassifier(max_depth=2, random_state=0)
 clf.fit(X, y)
 ```
 
+# 🚀&nbsp; Streamlit Machine Learning
 ### :running: Run Locally
 
 
