@@ -23,8 +23,8 @@
  # Table of Contents 🥳 🚀
 
 - [About the Project](#star2-about-the-project)
-  * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
+  * [Project Objectives](#space_invader-tech-stack)
+  * [Tech Stack](#dart-features)
   * [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
@@ -38,8 +38,11 @@
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
 
-# 🧐 Project philosophy
-
+# 🧐 Project Philosophy
+The telco industry has an annual churn of 15-20%. Customer churn is a critical metric as it is more cost effective to retain existing customers than to acquire new ones.
+## Objectives:
+- Analyse the data in terms of various features responsible for customer Churn
+- Develop an accurate machine learning model for correct classification of Churn and non churn customers.
 
 # 👨‍💻 Tech stack
 <h3 align="left">Languages and Tools:</h3>
