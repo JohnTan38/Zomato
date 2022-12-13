@@ -4,8 +4,8 @@
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
   <h1>Awesome Foodie Project</h1>
   </div>
-  <!-- Table of Contents -->
-# :notebook_with_decorative_cover: Table of Contents
+  
+ # Table of Contents 🥳 🚀
 
 - [About the Project](#star2-about-the-project)
   * [Tech Stack](#space_invader-tech-stack)
@@ -22,3 +22,8 @@
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
+
+# 🧐 Project philosophy
+
+
+# 👨‍💻 Tech stack
