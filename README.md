@@ -1,8 +1,8 @@
-# Zomato
+# Telco Customer Churn Prediction
 <div align="center">
 
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Foodie Project</h1>
+  <h1>Awesome Machine Learning Project</h1>
   </div>
   <div align='center'>
   
@@ -25,7 +25,7 @@
 - [About the Project](#star2-about-the-project)
   * [Project Objectives](#space_invader-tech-stack)
   * [Tech Stack](#dart-features)
-  * [Environment Variables](#key-environment-variables)
+  * [Exploratory Data Analysis](#key EDA)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
@@ -45,9 +45,21 @@ The telco industry has an annual churn of 15-20%. Customer churn is a critical m
 - Develop an accurate machine learning model for correct classification of Churn and non churn customers.
 
 # 👨‍💻 Tech stack
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Libraries and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+# 🌟 EDA
+### Tenure and Churn
+> ![Tenure and Churn](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Tenure%20and%20churn.PNG?raw=true)
+<br>
+> New customers are more likely to churn.<br>
+
+### Distribution of Monthly Charges
+> ![Monthly Charges](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Charges%20distribution.PNG?raw=true)
+
+> ![Total Charges](https://github.com/JohnTan38/Python-Data-Analysis-/blob/main/Total%20charges.PNG?raw=true)
+> <br>
+> Customers with higher Monthly Charges are also more likely to churn.<br>
 
 
 
