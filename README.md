@@ -30,7 +30,7 @@
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
   * [Run Locally](#running-run-locally)
-- [Usage](#eyes-usage)
+- [Strategies to Counter Churn](#eyes-usage)
 - [Roadmap](#compass-roadmap)
 - [Contributing](#wave-contributing)
   * [Code of Conduct](#scroll-code-of-conduct)
@@ -61,7 +61,8 @@ The telco industry has an annual churn of 15-20%. Customer churn is a critical m
 > <br>
 > Customers with higher Monthly Charges are also more likely to churn.<br>
 
-
+## 	:toolbox: Getting Started
+The solution is developed using Python 3.11 and Visual Studio Code with Python extensions
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffeeJohnTan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffeeJohnTan" /></a></p><br><br>
